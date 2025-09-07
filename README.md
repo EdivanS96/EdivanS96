@@ -22,11 +22,12 @@
   <a href="https://earthengine.google.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat&logo=google-earth&logoColor=white" alt="Google Earth Engine"/>
   </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
+
 </p>
 
