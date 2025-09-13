@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=edivansilva&color=006bed)
 
 ## Sobre mim <a href="http://lattes.cnpq.br/2690669771522466" target="_blank"><img src="https://github.com/user-attachments/assets/a9ab1979-f9e5-4570-b35e-8371ec797f0e" alt="Lattes" width="20" style="vertical-align: middle; margin-left: 5px;"/></a>
 
